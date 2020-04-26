@@ -1,0 +1,8 @@
+name: IP_Checker
+author: CodePunisher
+version: 1.0
+main: main.IP_Main
+
+commands:
+  ips:
+    description: IP Checker

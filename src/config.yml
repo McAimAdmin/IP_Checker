@@ -1,0 +1,13 @@
+Password: "amazingpassword"
+CheckJoin: true
+StaffPermission: "mcaim.staff"
+CommandPermission: "mcaim.staff.ipscommand"
+Reload: "&aIP_Checker has been reloaded!"
+EnterMessage: "&cPlease enter the password:"
+Success: "&aPassword correct! You can now play!"
+AllowedAttempts: 5
+IncorrectPassword: "&cThat password is incorrect! %currentAttempts%/%maxAttempts% attempts left:"
+Commands:
+  - "ban %player% -s"
+  - "banip %player% -s"
+AllowedIPS: []
